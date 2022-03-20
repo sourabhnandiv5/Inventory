@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjzP/jjxhfGYKChaJROPbPnQWg6ZpJY30VCUe562bqxEDeZSFVIv1BrL7OqOLUpMRTc759gAmk4XHXHmi5ZYiw==",
+  "dgSpecHash": "DvnU3D54jWWFa5HCjVPaRPSGa0a5Z6w+WK4YVeCdtLszw7Fn97CLFH6/D2+xP8W1+bNUND0iyO9gvf18E/yStA==",
   "success": true,
-  "projectFilePath": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\InventoryManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.12\\microsoft.aspnetcore.mvc.razor.extensions.5.0.12.nupkg.sha512",
     "C:\\Users\\santa\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.12.nupkg.sha512",

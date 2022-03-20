@@ -1,0 +1,8 @@
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.AssemblyInfoInputs.cache
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.AssemblyInfo.cs
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.csproj.CoreCompileInputs.cache
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.MvcApplicationPartsAssemblyInfo.cs
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.RazorAssemblyInfo.cache
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.RazorAssemblyInfo.cs

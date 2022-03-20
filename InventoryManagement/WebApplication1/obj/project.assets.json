@@ -741,9 +741,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\InventoryManagement.csproj",
+      "projectName": "InventoryManagement",
+      "projectPath": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\InventoryManagement.csproj",
       "packagesPath": "C:\\Users\\santa\\.nuget\\packages\\",
       "outputPath": "F:\\Moumita\\Project\\InventoryManagement\\InventoryManagement\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
