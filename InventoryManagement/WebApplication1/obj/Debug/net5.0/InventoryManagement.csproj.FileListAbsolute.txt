@@ -391,3 +391,4 @@ F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\D
 F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\ref\InventoryManagement.dll
 F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.pdb
 F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.genruntimeconfig.cache
+F:\Moumita\Project\InventoryManagement\InventoryManagement\WebApplication1\obj\Debug\net5.0\InventoryManagement.csproj.AssemblyReference.cache

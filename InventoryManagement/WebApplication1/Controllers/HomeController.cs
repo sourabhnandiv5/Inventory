@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using InventoryManagement.Models;
+using InventoryManagement.Repository;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +10,15 @@ namespace InventoryManagement.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            ProductDataHttp prd = new ProductDataHttp();
+          
+
+            List<Product> list = await prd.getproduct();
+            return View(list);
+
+           
         }
     }
 }
