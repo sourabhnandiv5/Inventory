@@ -1,9 +1,45 @@
-﻿@{
+﻿@model IEnumerable<InventoryManagement.Models.Product>
+
+@{
     Layout = "_Layout";
 }
+@{
+    ViewData["Title"] = "Index";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1>Index</h1>
+
+<a class="btn btn-outline-secondary" asp-area="" asp-controller="Unit" asp-action="Create">Create New</a>
 
 
-<div class="text-center">
-    <h1 class="display-4">Welcome Home</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.product_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.product_desc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.product_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.product_desc)
+                </td>
+                <td>
+                    <a asp-action="GetEdit" asp-route-id="@item.product_name">Edit</a> |
+                    <a asp-action="GetDetails" asp-route-id="@item.product_name">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.product_name">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
