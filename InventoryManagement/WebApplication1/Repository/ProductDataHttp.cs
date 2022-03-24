@@ -10,7 +10,7 @@ namespace InventoryManagement.Repository
 {
     public class ProductDataHttp
     {
-        string url = "https://localhost:44300/api/product";
+        string url = "https://localhost:44328/api/product";
 
         public async Task<List<Product>> getproduct()
         {
